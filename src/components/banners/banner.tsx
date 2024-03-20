@@ -1,5 +1,5 @@
 import { Swiper, SwiperSlide } from "swiper/react";
-import "swiper/swiper-bundle.css"; // Import Swiper styles
+import "swiper/swiper-bundle.css";
 import { Autoplay } from "swiper/modules";
 import { useAppContext } from "../../context/app-context.tsx";
 
