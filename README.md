@@ -1,4 +1,3 @@
-# Network Hardwares Frontend Developer Recruitment Case Study
 Welcome to the Network Hardwares Frontend Developer recruitment challenge! This case study is designed to assess your skills and expertise in React and CSS. Below you will find the details necessary to complete this project, hosted on GitHub.
 ## Project Overview
 This project involves creating a simple yet effective user interface to search for and display movies using the IMDb API, via the OMDb API. The aim is to evaluate your ability to integrate with APIs, manipulate data, and present it through a user-friendly interface using React and modern CSS practices.
