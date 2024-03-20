@@ -30,5 +30,3 @@ Starter Template: We have provided a minimal setup that gets you started with Re
 * **Creativity**:  Extra points for creativity and innovation in your solution.
 
 We are excited to see your approach to solving this case study. Best of luck, and we look forward to your submission!
-
-[Screenshots for the Design](https://github.com/network-hardwares/networkhardwares-fontend-case/tree/main/screenshots/)
