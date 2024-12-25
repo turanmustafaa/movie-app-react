@@ -1,4 +1,4 @@
-# Network Hardwares Frontend Case
+# Frontend Case
 
 Bu proje, iş başvurusu için geliştirilen bir case projesidir. Bu README dosyası, projenin genel yapısı, kullanılan teknolojiler ve projeyi çalıştırma adımlarını içerir.
 
@@ -48,7 +48,7 @@ npm run dev
 ```
 
 
-# Network Hardwares Frontend Case
+# Frontend Case
 
 This project is a case project developed for a job application. This README file contains the general structure of the project, the technologies used, and the steps to run the project.
 
